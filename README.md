@@ -1,5 +1,6 @@
-# 💫 About Me:
-Business Analyst
+# Hi 👋, I'm Sirisha Gowda
+
+
 
 
 ## 🌐 Socials:
