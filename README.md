@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sirisha Gowda<br>📌 Aspiring Business Analyst<br>📊 Tools: SQL | Power BI | Excel | Python<br>📁 I upload simple, beginner-friendly analysis projects<br>🌱 Growing skills in data storytelling & dashboard creation<br>✨ Open to collaborating on analytics and BA-related projects
+Hi 👋, I'm Sirisha Gowda<br>📌 Aspiring Data Analyst<br>📊 Tools: SQL | Power BI | Excel | Python<br>📁 I upload simple, beginner-friendly analysis projects<br>🌱 Growing skills in data storytelling & dashboard creation<br>✨ Open to collaborating on analytics and BA-related projects
 
 
 ## 🌐 Socials:
