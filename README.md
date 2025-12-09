@@ -1,6 +1,6 @@
 sirishagowda858/README.md
 
-#####        Hi 👋, I'm Sirisha Gowda<br> 
+##        Hi 👋, I'm Sirisha Gowda<br> 
   
   📌 Aspiring Data Analyst<br> 
   
