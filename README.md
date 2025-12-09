@@ -17,7 +17,7 @@ sirishagowda858/README.md
   📫 Reach out to me at sirishagowda858@gmail.com
 
   ## GitHub Stats:
-   sirishagowda858   
+   sirishagowda858 
 
 
 ## 🌐 Socials:
