@@ -12,12 +12,12 @@ sirishagowda858/README.md
   
   ✨ Open to collaborating on analytics and BA-related projects 
   
-  💻 All of my projects are available on GITHUB
-
+  💻 All of my projects are available on GITHUB 
+  
   📫 Reach out to me at sirishagowda858@gmail.com
 
   ## GitHub Stats:
-   sirishagowda858 
+   https://github.com/sirishagowda858/sirishagowda858.git
 
 
 ## 🌐 Socials:
