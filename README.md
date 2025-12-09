@@ -13,5 +13,6 @@ Hi 👋, I'm Sirisha Gowda<br>📌 Aspiring Business Analyst<br>📊 Tools: SQL 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sirisha Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
+![Your GitHub Stats](github-readme-stats.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
