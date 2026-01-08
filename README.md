@@ -16,6 +16,9 @@
   
   📫 Reach out to me at sirishagowda858@gmail.com
 
+  📑 Check out my resume here - My Resume
+  
+
   ## GitHub Stats:
    https://github.com/sirishagowda858/sirishagowda858.git
 
